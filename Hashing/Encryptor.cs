@@ -10,6 +10,9 @@ namespace Hashing
 {
     class Encryptor
     {
-       
+        static void Main(string[] args)
+        {
+            Console.WriteLine("got lost");
+        }
     }
 }
